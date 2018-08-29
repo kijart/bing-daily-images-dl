@@ -26,8 +26,20 @@ function download_images() {
   echo "Done"
 }
 
+function git_commit_push_changes {
+  git config --global user.email "travis@travis-ci.org"
+  git config --global user.name "Travis CI"
+
+  git add .
+  git commit --message "Bing daily images: $TRAVIS_BUILD_NUMBER"
+
+  git remote add origin https://${GITHUB_TOKEN}@github.com/kijart/bing-daily-images-dl.git > /dev/null 2>&1
+  git push --quiet --set-upstream origin master
+}
+
 function main() {
   download_images
+  git_commit_push_changes
 }
 
 main

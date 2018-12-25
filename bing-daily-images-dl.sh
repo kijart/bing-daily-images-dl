@@ -1,4 +1,4 @@
-function get_today_bing_images() {
+get_today_bing_images() {
   KEY="url"
 
   awk -F"[,:}]" '{
@@ -11,7 +11,7 @@ function get_today_bing_images() {
   }' | tr -d '"'
 }
 
-function download_images() {
+download_images() {
   working_directory=wallpapers/`date +"%Y%m%d"`
   bing_images_endpoint=https://www.bing.com/HPImageArchive.aspx\?format\=js\&idx\=0\&n\=8
 

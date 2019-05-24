@@ -21,6 +21,12 @@ download_images() {
   cd $working_directory
   curl -s -X GET $bing_images_endpoint | get_today_bing_images | xargs -n 1 curl -O
 
+  # fix filenames
+  for filename in th\?id=*
+  do
+    mv "$filename" "$(echo $filename | awk -F'[=&]' '{print $2}' | sed 's/^.\{4\}//g')"
+  done
+
   echo "\nImages stored in $working_directory\n"
   cd ..
   echo "Done"

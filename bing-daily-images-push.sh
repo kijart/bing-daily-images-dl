@@ -24,7 +24,7 @@ git_commit_push_changes() {
   git add .
   git commit --message "Bing daily images (`date +"%Y-%m-%d"`)"
 
-  git push --quiet --set-upstream origin-token master
+  git push --quiet --set-upstream origin-token HEAD:master
 }
 
 update_readme_images

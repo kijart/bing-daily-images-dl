@@ -3,15 +3,15 @@ update_readme_images() {
   fixed_line_number=$(cat README.md | awk '/<!-- Wallpapers -->/{ print NR; exit }')
 
   tmp_readme=$(head -n $fixed_line_number README.md)
-  echo "$tmp_readme\n" > README.md
+  printf "$tmp_readme\n\n" > README.md
 
   # add latest images
   modified_filename_list=$(git status --porcelain | cut -c4-)
 
   for filename in $modified_filename_list; do
     if [[ $filename == *.jpg ]]; then
-      echo "### $filename\n" >> README.md
-      echo "![$filename]($filename)\n" >> README.md
+      printf "### $filename\n\n" >> README.md
+      printf "![$filename]($filename)\n\n" >> README.md
     fi
   done
 }

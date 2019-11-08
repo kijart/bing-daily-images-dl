@@ -3,13 +3,10 @@ git_commit_push_changes() {
   git config --global user.email "kijart+ci@gmail.com"
   git config --global user.name "Travis CI"
 
-  git checkout -b wallpapers
-  git pull origin-token wallpapers
-
   git add .
   git commit --message "Bing daily images (`date +"%Y-%m-%d"`)"
 
-  git push --quiet --set-upstream origin-token wallpapers
+  git push --quiet --set-upstream origin-token master
 }
 
 git_commit_push_changes

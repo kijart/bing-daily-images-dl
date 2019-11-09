@@ -8,7 +8,3 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20191108/ChapelAiguilhe_EN-US4421310982_1920x1080.jpg
-
-![wallpapers/20191108/ChapelAiguilhe_EN-US4421310982_1920x1080.jpg](wallpapers/20191108/ChapelAiguilhe_EN-US4421310982_1920x1080.jpg)
-

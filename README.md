@@ -8,3 +8,7 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
+### wallpapers/20191110/SesameStreet50_EN-US5093557671_1920x1080.jpg
+
+![wallpapers/20191110/SesameStreet50_EN-US5093557671_1920x1080.jpg](wallpapers/20191110/SesameStreet50_EN-US5093557671_1920x1080.jpg)
+

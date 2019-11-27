@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20191126/AtchafalayaCypress_EN-US8995276008_1920x1080.jpg
+### wallpapers/20191127/AtchafalayaCypress_EN-US8995276008_1920x1080.jpg
 
-![wallpapers/20191126/AtchafalayaCypress_EN-US8995276008_1920x1080.jpg](wallpapers/20191126/AtchafalayaCypress_EN-US8995276008_1920x1080.jpg)
+![wallpapers/20191127/AtchafalayaCypress_EN-US8995276008_1920x1080.jpg](wallpapers/20191127/AtchafalayaCypress_EN-US8995276008_1920x1080.jpg)
 
-### wallpapers/20191126/BeaujolaisRegion_EN-US7793380287_1920x1080.jpg
+### wallpapers/20191127/BeaujolaisRegion_EN-US7793380287_1920x1080.jpg
 
-![wallpapers/20191126/BeaujolaisRegion_EN-US7793380287_1920x1080.jpg](wallpapers/20191126/BeaujolaisRegion_EN-US7793380287_1920x1080.jpg)
+![wallpapers/20191127/BeaujolaisRegion_EN-US7793380287_1920x1080.jpg](wallpapers/20191127/BeaujolaisRegion_EN-US7793380287_1920x1080.jpg)
 
-### wallpapers/20191126/CuttySark150_EN-US8574386630_1920x1080.jpg
+### wallpapers/20191127/CuttySark150_EN-US8574386630_1920x1080.jpg
 
-![wallpapers/20191126/CuttySark150_EN-US8574386630_1920x1080.jpg](wallpapers/20191126/CuttySark150_EN-US8574386630_1920x1080.jpg)
+![wallpapers/20191127/CuttySark150_EN-US8574386630_1920x1080.jpg](wallpapers/20191127/CuttySark150_EN-US8574386630_1920x1080.jpg)
 
-### wallpapers/20191126/IchetuckneeRiver_EN-US7505288388_1920x1080.jpg
+### wallpapers/20191127/HairyHighlanders_EN-US9166386626_1920x1080.jpg
 
-![wallpapers/20191126/IchetuckneeRiver_EN-US7505288388_1920x1080.jpg](wallpapers/20191126/IchetuckneeRiver_EN-US7505288388_1920x1080.jpg)
+![wallpapers/20191127/HairyHighlanders_EN-US9166386626_1920x1080.jpg](wallpapers/20191127/HairyHighlanders_EN-US9166386626_1920x1080.jpg)
 
-### wallpapers/20191126/OverwinteringMonarchs_EN-US9077881827_1920x1080.jpg
+### wallpapers/20191127/OverwinteringMonarchs_EN-US9077881827_1920x1080.jpg
 
-![wallpapers/20191126/OverwinteringMonarchs_EN-US9077881827_1920x1080.jpg](wallpapers/20191126/OverwinteringMonarchs_EN-US9077881827_1920x1080.jpg)
+![wallpapers/20191127/OverwinteringMonarchs_EN-US9077881827_1920x1080.jpg](wallpapers/20191127/OverwinteringMonarchs_EN-US9077881827_1920x1080.jpg)
 
-### wallpapers/20191126/QueenVictoriaAgave_EN-US8690321294_1920x1080.jpg
+### wallpapers/20191127/QueenVictoriaAgave_EN-US8690321294_1920x1080.jpg
 
-![wallpapers/20191126/QueenVictoriaAgave_EN-US8690321294_1920x1080.jpg](wallpapers/20191126/QueenVictoriaAgave_EN-US8690321294_1920x1080.jpg)
+![wallpapers/20191127/QueenVictoriaAgave_EN-US8690321294_1920x1080.jpg](wallpapers/20191127/QueenVictoriaAgave_EN-US8690321294_1920x1080.jpg)
 
-### wallpapers/20191126/SimienGelada_EN-US7714168748_1920x1080.jpg
+### wallpapers/20191127/SimienGelada_EN-US7714168748_1920x1080.jpg
 
-![wallpapers/20191126/SimienGelada_EN-US7714168748_1920x1080.jpg](wallpapers/20191126/SimienGelada_EN-US7714168748_1920x1080.jpg)
+![wallpapers/20191127/SimienGelada_EN-US7714168748_1920x1080.jpg](wallpapers/20191127/SimienGelada_EN-US7714168748_1920x1080.jpg)
 
-### wallpapers/20191126/ZionBirthday_EN-US2681531368_1920x1080.jpg
+### wallpapers/20191127/ZionBirthday_EN-US2681531368_1920x1080.jpg
 
-![wallpapers/20191126/ZionBirthday_EN-US2681531368_1920x1080.jpg](wallpapers/20191126/ZionBirthday_EN-US2681531368_1920x1080.jpg)
+![wallpapers/20191127/ZionBirthday_EN-US2681531368_1920x1080.jpg](wallpapers/20191127/ZionBirthday_EN-US2681531368_1920x1080.jpg)
 

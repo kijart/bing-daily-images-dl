@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20191209/AKParksDay_EN-US9980950271_1920x1080.jpg
+### wallpapers/20191210/AKParksDay_EN-US9980950271_1920x1080.jpg
 
-![wallpapers/20191209/AKParksDay_EN-US9980950271_1920x1080.jpg](wallpapers/20191209/AKParksDay_EN-US9980950271_1920x1080.jpg)
+![wallpapers/20191210/AKParksDay_EN-US9980950271_1920x1080.jpg](wallpapers/20191210/AKParksDay_EN-US9980950271_1920x1080.jpg)
 
-### wallpapers/20191209/AmericasPlayground_EN-US9140833973_1920x1080.jpg
+### wallpapers/20191210/AmericasPlayground_EN-US9140833973_1920x1080.jpg
 
-![wallpapers/20191209/AmericasPlayground_EN-US9140833973_1920x1080.jpg](wallpapers/20191209/AmericasPlayground_EN-US9140833973_1920x1080.jpg)
+![wallpapers/20191210/AmericasPlayground_EN-US9140833973_1920x1080.jpg](wallpapers/20191210/AmericasPlayground_EN-US9140833973_1920x1080.jpg)
 
-### wallpapers/20191209/CanadaTreeFarm_EN-US0267582990_1920x1080.jpg
+### wallpapers/20191210/BlueChip_EN-US9896595975_1920x1080.jpg
 
-![wallpapers/20191209/CanadaTreeFarm_EN-US0267582990_1920x1080.jpg](wallpapers/20191209/CanadaTreeFarm_EN-US0267582990_1920x1080.jpg)
+![wallpapers/20191210/BlueChip_EN-US9896595975_1920x1080.jpg](wallpapers/20191210/BlueChip_EN-US9896595975_1920x1080.jpg)
 
-### wallpapers/20191209/FlagAboveArizona_EN-US9636197389_1920x1080.jpg
+### wallpapers/20191210/CanadaTreeFarm_EN-US0267582990_1920x1080.jpg
 
-![wallpapers/20191209/FlagAboveArizona_EN-US9636197389_1920x1080.jpg](wallpapers/20191209/FlagAboveArizona_EN-US9636197389_1920x1080.jpg)
+![wallpapers/20191210/CanadaTreeFarm_EN-US0267582990_1920x1080.jpg](wallpapers/20191210/CanadaTreeFarm_EN-US0267582990_1920x1080.jpg)
 
-### wallpapers/20191209/HalleyVI_EN-US9882320579_1920x1080.jpg
+### wallpapers/20191210/FlagAboveArizona_EN-US9636197389_1920x1080.jpg
 
-![wallpapers/20191209/HalleyVI_EN-US9882320579_1920x1080.jpg](wallpapers/20191209/HalleyVI_EN-US9882320579_1920x1080.jpg)
+![wallpapers/20191210/FlagAboveArizona_EN-US9636197389_1920x1080.jpg](wallpapers/20191210/FlagAboveArizona_EN-US9636197389_1920x1080.jpg)
 
-### wallpapers/20191209/PuffinSharing_EN-US0079609912_1920x1080.jpg
+### wallpapers/20191210/PuffinSharing_EN-US0079609912_1920x1080.jpg
 
-![wallpapers/20191209/PuffinSharing_EN-US0079609912_1920x1080.jpg](wallpapers/20191209/PuffinSharing_EN-US0079609912_1920x1080.jpg)
+![wallpapers/20191210/PuffinSharing_EN-US0079609912_1920x1080.jpg](wallpapers/20191210/PuffinSharing_EN-US0079609912_1920x1080.jpg)
 
-### wallpapers/20191209/PurpleWeekend_EN-US9729941585_1920x1080.jpg
+### wallpapers/20191210/PurpleWeekend_EN-US9729941585_1920x1080.jpg
 
-![wallpapers/20191209/PurpleWeekend_EN-US9729941585_1920x1080.jpg](wallpapers/20191209/PurpleWeekend_EN-US9729941585_1920x1080.jpg)
+![wallpapers/20191210/PurpleWeekend_EN-US9729941585_1920x1080.jpg](wallpapers/20191210/PurpleWeekend_EN-US9729941585_1920x1080.jpg)
 
-### wallpapers/20191209/RhinosOxpecker_EN-US0144797285_1920x1080.jpg
+### wallpapers/20191210/RhinosOxpecker_EN-US0144797285_1920x1080.jpg
 
-![wallpapers/20191209/RhinosOxpecker_EN-US0144797285_1920x1080.jpg](wallpapers/20191209/RhinosOxpecker_EN-US0144797285_1920x1080.jpg)
+![wallpapers/20191210/RhinosOxpecker_EN-US0144797285_1920x1080.jpg](wallpapers/20191210/RhinosOxpecker_EN-US0144797285_1920x1080.jpg)
 

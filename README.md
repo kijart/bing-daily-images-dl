@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20200215/AbiquaFalls_EN-US4408914137_1920x1080.jpg
+### wallpapers/20200216/AbiquaFalls_EN-US4408914137_1920x1080.jpg
 
-![wallpapers/20200215/AbiquaFalls_EN-US4408914137_1920x1080.jpg](wallpapers/20200215/AbiquaFalls_EN-US4408914137_1920x1080.jpg)
+![wallpapers/20200216/AbiquaFalls_EN-US4408914137_1920x1080.jpg](wallpapers/20200216/AbiquaFalls_EN-US4408914137_1920x1080.jpg)
 
-### wallpapers/20200215/CorsicaHeart_EN-US7363711239_1920x1080.jpg
+### wallpapers/20200216/CorsicaHeart_EN-US7363711239_1920x1080.jpg
 
-![wallpapers/20200215/CorsicaHeart_EN-US7363711239_1920x1080.jpg](wallpapers/20200215/CorsicaHeart_EN-US7363711239_1920x1080.jpg)
+![wallpapers/20200216/CorsicaHeart_EN-US7363711239_1920x1080.jpg](wallpapers/20200216/CorsicaHeart_EN-US7363711239_1920x1080.jpg)
 
-### wallpapers/20200215/HollywoodSign_EN-US3888664438_1920x1080.jpg
+### wallpapers/20200216/HollywoodSign_EN-US3888664438_1920x1080.jpg
 
-![wallpapers/20200215/HollywoodSign_EN-US3888664438_1920x1080.jpg](wallpapers/20200215/HollywoodSign_EN-US3888664438_1920x1080.jpg)
+![wallpapers/20200216/HollywoodSign_EN-US3888664438_1920x1080.jpg](wallpapers/20200216/HollywoodSign_EN-US3888664438_1920x1080.jpg)
 
-### wallpapers/20200215/PingxiLantern_EN-US3795457184_1920x1080.jpg
+### wallpapers/20200216/HumpbackHerring_EN-US7403030704_1920x1080.jpg
 
-![wallpapers/20200215/PingxiLantern_EN-US3795457184_1920x1080.jpg](wallpapers/20200215/PingxiLantern_EN-US3795457184_1920x1080.jpg)
+![wallpapers/20200216/HumpbackHerring_EN-US7403030704_1920x1080.jpg](wallpapers/20200216/HumpbackHerring_EN-US7403030704_1920x1080.jpg)
 
-### wallpapers/20200215/PinzonIslandTortoise_EN-US4325314925_1920x1080.jpg
+### wallpapers/20200216/PingxiLantern_EN-US3795457184_1920x1080.jpg
 
-![wallpapers/20200215/PinzonIslandTortoise_EN-US4325314925_1920x1080.jpg](wallpapers/20200215/PinzonIslandTortoise_EN-US4325314925_1920x1080.jpg)
+![wallpapers/20200216/PingxiLantern_EN-US3795457184_1920x1080.jpg](wallpapers/20200216/PingxiLantern_EN-US3795457184_1920x1080.jpg)
 
-### wallpapers/20200215/QuebecWinter_EN-US3715352171_1920x1080.jpg
+### wallpapers/20200216/PinzonIslandTortoise_EN-US4325314925_1920x1080.jpg
 
-![wallpapers/20200215/QuebecWinter_EN-US3715352171_1920x1080.jpg](wallpapers/20200215/QuebecWinter_EN-US3715352171_1920x1080.jpg)
+![wallpapers/20200216/PinzonIslandTortoise_EN-US4325314925_1920x1080.jpg](wallpapers/20200216/PinzonIslandTortoise_EN-US4325314925_1920x1080.jpg)
 
-### wallpapers/20200215/SuperkilenPark_EN-US4074449236_1920x1080.jpg
+### wallpapers/20200216/SuperkilenPark_EN-US4074449236_1920x1080.jpg
 
-![wallpapers/20200215/SuperkilenPark_EN-US4074449236_1920x1080.jpg](wallpapers/20200215/SuperkilenPark_EN-US4074449236_1920x1080.jpg)
+![wallpapers/20200216/SuperkilenPark_EN-US4074449236_1920x1080.jpg](wallpapers/20200216/SuperkilenPark_EN-US4074449236_1920x1080.jpg)
 
-### wallpapers/20200215/SylviaEarle_EN-US4248966328_1920x1080.jpg
+### wallpapers/20200216/SylviaEarle_EN-US4248966328_1920x1080.jpg
 
-![wallpapers/20200215/SylviaEarle_EN-US4248966328_1920x1080.jpg](wallpapers/20200215/SylviaEarle_EN-US4248966328_1920x1080.jpg)
+![wallpapers/20200216/SylviaEarle_EN-US4248966328_1920x1080.jpg](wallpapers/20200216/SylviaEarle_EN-US4248966328_1920x1080.jpg)
 

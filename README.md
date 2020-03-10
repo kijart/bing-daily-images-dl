@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20200309/BluebirdsYNP_EN-US2456710517_1920x1080.jpg
+### wallpapers/20200310/BluebirdsYNP_EN-US2456710517_1920x1080.jpg
 
-![wallpapers/20200309/BluebirdsYNP_EN-US2456710517_1920x1080.jpg](wallpapers/20200309/BluebirdsYNP_EN-US2456710517_1920x1080.jpg)
+![wallpapers/20200310/BluebirdsYNP_EN-US2456710517_1920x1080.jpg](wallpapers/20200310/BluebirdsYNP_EN-US2456710517_1920x1080.jpg)
 
-### wallpapers/20200309/BronteBaths_EN-US9467599141_1920x1080.jpg
+### wallpapers/20200310/BronteBaths_EN-US9467599141_1920x1080.jpg
 
-![wallpapers/20200309/BronteBaths_EN-US9467599141_1920x1080.jpg](wallpapers/20200309/BronteBaths_EN-US9467599141_1920x1080.jpg)
+![wallpapers/20200310/BronteBaths_EN-US9467599141_1920x1080.jpg](wallpapers/20200310/BronteBaths_EN-US9467599141_1920x1080.jpg)
 
-### wallpapers/20200309/CarnegieaGigantea_EN-US2414292735_1920x1080.jpg
+### wallpapers/20200310/CarnegieaGigantea_EN-US2414292735_1920x1080.jpg
 
-![wallpapers/20200309/CarnegieaGigantea_EN-US2414292735_1920x1080.jpg](wallpapers/20200309/CarnegieaGigantea_EN-US2414292735_1920x1080.jpg)
+![wallpapers/20200310/CarnegieaGigantea_EN-US2414292735_1920x1080.jpg](wallpapers/20200310/CarnegieaGigantea_EN-US2414292735_1920x1080.jpg)
 
-### wallpapers/20200309/ElPit_EN-US2350184760_1920x1080.jpg
+### wallpapers/20200310/ElPit_EN-US2350184760_1920x1080.jpg
 
-![wallpapers/20200309/ElPit_EN-US2350184760_1920x1080.jpg](wallpapers/20200309/ElPit_EN-US2350184760_1920x1080.jpg)
+![wallpapers/20200310/ElPit_EN-US2350184760_1920x1080.jpg](wallpapers/20200310/ElPit_EN-US2350184760_1920x1080.jpg)
 
-### wallpapers/20200309/HikersVoters_EN-US2077085885_1920x1080.jpg
+### wallpapers/20200310/JoanNYC_EN-US2569219288_1920x1080.jpg
 
-![wallpapers/20200309/HikersVoters_EN-US2077085885_1920x1080.jpg](wallpapers/20200309/HikersVoters_EN-US2077085885_1920x1080.jpg)
+![wallpapers/20200310/JoanNYC_EN-US2569219288_1920x1080.jpg](wallpapers/20200310/JoanNYC_EN-US2569219288_1920x1080.jpg)
 
-### wallpapers/20200309/JoanNYC_EN-US2569219288_1920x1080.jpg
+### wallpapers/20200310/SeussianLandscape_EN-US2146844247_1920x1080.jpg
 
-![wallpapers/20200309/JoanNYC_EN-US2569219288_1920x1080.jpg](wallpapers/20200309/JoanNYC_EN-US2569219288_1920x1080.jpg)
+![wallpapers/20200310/SeussianLandscape_EN-US2146844247_1920x1080.jpg](wallpapers/20200310/SeussianLandscape_EN-US2146844247_1920x1080.jpg)
 
-### wallpapers/20200309/SeussianLandscape_EN-US2146844247_1920x1080.jpg
+### wallpapers/20200310/SnoozyTheBear_EN-US2658340968_1920x1080.jpg
 
-![wallpapers/20200309/SeussianLandscape_EN-US2146844247_1920x1080.jpg](wallpapers/20200309/SeussianLandscape_EN-US2146844247_1920x1080.jpg)
+![wallpapers/20200310/SnoozyTheBear_EN-US2658340968_1920x1080.jpg](wallpapers/20200310/SnoozyTheBear_EN-US2658340968_1920x1080.jpg)
 
-### wallpapers/20200309/SpectralTarsiers_EN-US2290390785_1920x1080.jpg
+### wallpapers/20200310/SpectralTarsiers_EN-US2290390785_1920x1080.jpg
 
-![wallpapers/20200309/SpectralTarsiers_EN-US2290390785_1920x1080.jpg](wallpapers/20200309/SpectralTarsiers_EN-US2290390785_1920x1080.jpg)
+![wallpapers/20200310/SpectralTarsiers_EN-US2290390785_1920x1080.jpg](wallpapers/20200310/SpectralTarsiers_EN-US2290390785_1920x1080.jpg)
 

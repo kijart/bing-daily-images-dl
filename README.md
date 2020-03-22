@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20200321/Cirkelbroen_EN-US9451869319_1920x1080.jpg
+### wallpapers/20200322/Cirkelbroen_EN-US9451869319_1920x1080.jpg
 
-![wallpapers/20200321/Cirkelbroen_EN-US9451869319_1920x1080.jpg](wallpapers/20200321/Cirkelbroen_EN-US9451869319_1920x1080.jpg)
+![wallpapers/20200322/Cirkelbroen_EN-US9451869319_1920x1080.jpg](wallpapers/20200322/Cirkelbroen_EN-US9451869319_1920x1080.jpg)
 
-### wallpapers/20200321/EquinoxAngkor_EN-US9664645165_1920x1080.jpg
+### wallpapers/20200322/EquinoxAngkor_EN-US9664645165_1920x1080.jpg
 
-![wallpapers/20200321/EquinoxAngkor_EN-US9664645165_1920x1080.jpg](wallpapers/20200321/EquinoxAngkor_EN-US9664645165_1920x1080.jpg)
+![wallpapers/20200322/EquinoxAngkor_EN-US9664645165_1920x1080.jpg](wallpapers/20200322/EquinoxAngkor_EN-US9664645165_1920x1080.jpg)
 
-### wallpapers/20200321/JerteCherries_EN-US9711617537_1920x1080.jpg
+### wallpapers/20200322/Knowth_EN-US9596233080_1920x1080.jpg
 
-![wallpapers/20200321/JerteCherries_EN-US9711617537_1920x1080.jpg](wallpapers/20200321/JerteCherries_EN-US9711617537_1920x1080.jpg)
+![wallpapers/20200322/Knowth_EN-US9596233080_1920x1080.jpg](wallpapers/20200322/Knowth_EN-US9596233080_1920x1080.jpg)
 
-### wallpapers/20200321/Knowth_EN-US9596233080_1920x1080.jpg
+### wallpapers/20200322/MetamorphicRocks_EN-US9509651378_1920x1080.jpg
 
-![wallpapers/20200321/Knowth_EN-US9596233080_1920x1080.jpg](wallpapers/20200321/Knowth_EN-US9596233080_1920x1080.jpg)
+![wallpapers/20200322/MetamorphicRocks_EN-US9509651378_1920x1080.jpg](wallpapers/20200322/MetamorphicRocks_EN-US9509651378_1920x1080.jpg)
 
-### wallpapers/20200321/MetamorphicRocks_EN-US9509651378_1920x1080.jpg
+### wallpapers/20200322/PabloNeruda_EN-US9874244430_1920x1080.jpg
 
-![wallpapers/20200321/MetamorphicRocks_EN-US9509651378_1920x1080.jpg](wallpapers/20200321/MetamorphicRocks_EN-US9509651378_1920x1080.jpg)
+![wallpapers/20200322/PabloNeruda_EN-US9874244430_1920x1080.jpg](wallpapers/20200322/PabloNeruda_EN-US9874244430_1920x1080.jpg)
 
-### wallpapers/20200321/RobertCurbeam_EN-US9633185364_1920x1080.jpg
+### wallpapers/20200322/RobertCurbeam_EN-US9633185364_1920x1080.jpg
 
-![wallpapers/20200321/RobertCurbeam_EN-US9633185364_1920x1080.jpg](wallpapers/20200321/RobertCurbeam_EN-US9633185364_1920x1080.jpg)
+![wallpapers/20200322/RobertCurbeam_EN-US9633185364_1920x1080.jpg](wallpapers/20200322/RobertCurbeam_EN-US9633185364_1920x1080.jpg)
 
-### wallpapers/20200321/SaltonSea_EN-US9699729653_1920x1080.jpg
+### wallpapers/20200322/SaltonSea_EN-US9699729653_1920x1080.jpg
 
-![wallpapers/20200321/SaltonSea_EN-US9699729653_1920x1080.jpg](wallpapers/20200321/SaltonSea_EN-US9699729653_1920x1080.jpg)
+![wallpapers/20200322/SaltonSea_EN-US9699729653_1920x1080.jpg](wallpapers/20200322/SaltonSea_EN-US9699729653_1920x1080.jpg)
 
-### wallpapers/20200321/SirThomasMore_EN-US9546326212_1920x1080.jpg
+### wallpapers/20200322/SirThomasMore_EN-US9546326212_1920x1080.jpg
 
-![wallpapers/20200321/SirThomasMore_EN-US9546326212_1920x1080.jpg](wallpapers/20200321/SirThomasMore_EN-US9546326212_1920x1080.jpg)
+![wallpapers/20200322/SirThomasMore_EN-US9546326212_1920x1080.jpg](wallpapers/20200322/SirThomasMore_EN-US9546326212_1920x1080.jpg)
 

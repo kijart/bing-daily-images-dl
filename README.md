@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20200324/EquinoxAngkor_EN-US9664645165_1920x1080.jpg
+### wallpapers/20200325/EquinoxAngkor_EN-US9664645165_1920x1080.jpg
 
-![wallpapers/20200324/EquinoxAngkor_EN-US9664645165_1920x1080.jpg](wallpapers/20200324/EquinoxAngkor_EN-US9664645165_1920x1080.jpg)
+![wallpapers/20200325/EquinoxAngkor_EN-US9664645165_1920x1080.jpg](wallpapers/20200325/EquinoxAngkor_EN-US9664645165_1920x1080.jpg)
 
-### wallpapers/20200324/Knowth_EN-US9596233080_1920x1080.jpg
+### wallpapers/20200325/Knowth_EN-US9596233080_1920x1080.jpg
 
-![wallpapers/20200324/Knowth_EN-US9596233080_1920x1080.jpg](wallpapers/20200324/Knowth_EN-US9596233080_1920x1080.jpg)
+![wallpapers/20200325/Knowth_EN-US9596233080_1920x1080.jpg](wallpapers/20200325/Knowth_EN-US9596233080_1920x1080.jpg)
 
-### wallpapers/20200324/LenticularVideo_EN-US3256283499_1920x1080.jpg
+### wallpapers/20200325/LenticularVideo_EN-US3256283499_1920x1080.jpg
 
-![wallpapers/20200324/LenticularVideo_EN-US3256283499_1920x1080.jpg](wallpapers/20200324/LenticularVideo_EN-US3256283499_1920x1080.jpg)
+![wallpapers/20200325/LenticularVideo_EN-US3256283499_1920x1080.jpg](wallpapers/20200325/LenticularVideo_EN-US3256283499_1920x1080.jpg)
 
-### wallpapers/20200324/PabloNeruda_EN-US9874244430_1920x1080.jpg
+### wallpapers/20200325/PabloNeruda_EN-US9874244430_1920x1080.jpg
 
-![wallpapers/20200324/PabloNeruda_EN-US9874244430_1920x1080.jpg](wallpapers/20200324/PabloNeruda_EN-US9874244430_1920x1080.jpg)
+![wallpapers/20200325/PabloNeruda_EN-US9874244430_1920x1080.jpg](wallpapers/20200325/PabloNeruda_EN-US9874244430_1920x1080.jpg)
 
-### wallpapers/20200324/RobertCurbeam_EN-US9633185364_1920x1080.jpg
+### wallpapers/20200325/RobertCurbeam_EN-US9633185364_1920x1080.jpg
 
-![wallpapers/20200324/RobertCurbeam_EN-US9633185364_1920x1080.jpg](wallpapers/20200324/RobertCurbeam_EN-US9633185364_1920x1080.jpg)
+![wallpapers/20200325/RobertCurbeam_EN-US9633185364_1920x1080.jpg](wallpapers/20200325/RobertCurbeam_EN-US9633185364_1920x1080.jpg)
 
-### wallpapers/20200324/SaltonSea_EN-US9699729653_1920x1080.jpg
+### wallpapers/20200325/SaltonSea_EN-US9699729653_1920x1080.jpg
 
-![wallpapers/20200324/SaltonSea_EN-US9699729653_1920x1080.jpg](wallpapers/20200324/SaltonSea_EN-US9699729653_1920x1080.jpg)
+![wallpapers/20200325/SaltonSea_EN-US9699729653_1920x1080.jpg](wallpapers/20200325/SaltonSea_EN-US9699729653_1920x1080.jpg)
 
-### wallpapers/20200324/SirThomasMore_EN-US9546326212_1920x1080.jpg
+### wallpapers/20200325/SpainBeeEaters_EN-US0011186052_1920x1080.jpg
 
-![wallpapers/20200324/SirThomasMore_EN-US9546326212_1920x1080.jpg](wallpapers/20200324/SirThomasMore_EN-US9546326212_1920x1080.jpg)
+![wallpapers/20200325/SpainBeeEaters_EN-US0011186052_1920x1080.jpg](wallpapers/20200325/SpainBeeEaters_EN-US0011186052_1920x1080.jpg)
 
-### wallpapers/20200324/StepWell_EN-US9916978488_1920x1080.jpg
+### wallpapers/20200325/StepWell_EN-US9916978488_1920x1080.jpg
 
-![wallpapers/20200324/StepWell_EN-US9916978488_1920x1080.jpg](wallpapers/20200324/StepWell_EN-US9916978488_1920x1080.jpg)
+![wallpapers/20200325/StepWell_EN-US9916978488_1920x1080.jpg](wallpapers/20200325/StepWell_EN-US9916978488_1920x1080.jpg)
 

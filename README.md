@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20200611/BaronLakes_EN-US1588332572_1920x1080.jpg
+### wallpapers/20200612/BaronLakes_EN-US1588332572_1920x1080.jpg
 
-![wallpapers/20200611/BaronLakes_EN-US1588332572_1920x1080.jpg](wallpapers/20200611/BaronLakes_EN-US1588332572_1920x1080.jpg)
+![wallpapers/20200612/BaronLakes_EN-US1588332572_1920x1080.jpg](wallpapers/20200612/BaronLakes_EN-US1588332572_1920x1080.jpg)
 
-### wallpapers/20200611/LaPertusa_EN-US1363532007_1920x1080.jpg
+### wallpapers/20200612/GriboyedovCanal_EN-US1698534243_1920x1080.jpg
 
-![wallpapers/20200611/LaPertusa_EN-US1363532007_1920x1080.jpg](wallpapers/20200611/LaPertusa_EN-US1363532007_1920x1080.jpg)
+![wallpapers/20200612/GriboyedovCanal_EN-US1698534243_1920x1080.jpg](wallpapers/20200612/GriboyedovCanal_EN-US1698534243_1920x1080.jpg)
 
-### wallpapers/20200611/LionSurfing_EN-US1478093197_1920x1080.jpg
+### wallpapers/20200612/LaPertusa_EN-US1363532007_1920x1080.jpg
 
-![wallpapers/20200611/LionSurfing_EN-US1478093197_1920x1080.jpg](wallpapers/20200611/LionSurfing_EN-US1478093197_1920x1080.jpg)
+![wallpapers/20200612/LaPertusa_EN-US1363532007_1920x1080.jpg](wallpapers/20200612/LaPertusa_EN-US1363532007_1920x1080.jpg)
 
-### wallpapers/20200611/PontFawr_EN-US2807758957_1920x1080.jpg
+### wallpapers/20200612/LionSurfing_EN-US1478093197_1920x1080.jpg
 
-![wallpapers/20200611/PontFawr_EN-US2807758957_1920x1080.jpg](wallpapers/20200611/PontFawr_EN-US2807758957_1920x1080.jpg)
+![wallpapers/20200612/LionSurfing_EN-US1478093197_1920x1080.jpg](wallpapers/20200612/LionSurfing_EN-US1478093197_1920x1080.jpg)
 
-### wallpapers/20200611/SynchronousFireflies_EN-US0423452738_1920x1080.jpg
+### wallpapers/20200612/PontFawr_EN-US2807758957_1920x1080.jpg
 
-![wallpapers/20200611/SynchronousFireflies_EN-US0423452738_1920x1080.jpg](wallpapers/20200611/SynchronousFireflies_EN-US0423452738_1920x1080.jpg)
+![wallpapers/20200612/PontFawr_EN-US2807758957_1920x1080.jpg](wallpapers/20200612/PontFawr_EN-US2807758957_1920x1080.jpg)
 
-### wallpapers/20200611/WaltersWiggles_EN-US1214099965_1920x1080.jpg
+### wallpapers/20200612/SynchronousFireflies_EN-US0423452738_1920x1080.jpg
 
-![wallpapers/20200611/WaltersWiggles_EN-US1214099965_1920x1080.jpg](wallpapers/20200611/WaltersWiggles_EN-US1214099965_1920x1080.jpg)
+![wallpapers/20200612/SynchronousFireflies_EN-US0423452738_1920x1080.jpg](wallpapers/20200612/SynchronousFireflies_EN-US0423452738_1920x1080.jpg)
 
-### wallpapers/20200611/WhiteRimTrail_EN-US2749200524_1920x1080.jpg
+### wallpapers/20200612/WaltersWiggles_EN-US1214099965_1920x1080.jpg
 
-![wallpapers/20200611/WhiteRimTrail_EN-US2749200524_1920x1080.jpg](wallpapers/20200611/WhiteRimTrail_EN-US2749200524_1920x1080.jpg)
+![wallpapers/20200612/WaltersWiggles_EN-US1214099965_1920x1080.jpg](wallpapers/20200612/WaltersWiggles_EN-US1214099965_1920x1080.jpg)
 
-### wallpapers/20200611/WobblyBridge_EN-US1661773056_1920x1080.jpg
+### wallpapers/20200612/WobblyBridge_EN-US1661773056_1920x1080.jpg
 
-![wallpapers/20200611/WobblyBridge_EN-US1661773056_1920x1080.jpg](wallpapers/20200611/WobblyBridge_EN-US1661773056_1920x1080.jpg)
+![wallpapers/20200612/WobblyBridge_EN-US1661773056_1920x1080.jpg](wallpapers/20200612/WobblyBridge_EN-US1661773056_1920x1080.jpg)
 

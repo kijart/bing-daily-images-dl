@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20200708/CalorisMDIS_EN-US8770644601_1920x1080.jpg
+### wallpapers/20200709/CalorisMDIS_EN-US8770644601_1920x1080.jpg
 
-![wallpapers/20200708/CalorisMDIS_EN-US8770644601_1920x1080.jpg](wallpapers/20200708/CalorisMDIS_EN-US8770644601_1920x1080.jpg)
+![wallpapers/20200709/CalorisMDIS_EN-US8770644601_1920x1080.jpg](wallpapers/20200709/CalorisMDIS_EN-US8770644601_1920x1080.jpg)
 
-### wallpapers/20200708/DCFireworksVideo_EN-US8421768495_1920x1080.jpg
+### wallpapers/20200709/DCFireworksVideo_EN-US8421768495_1920x1080.jpg
 
-![wallpapers/20200708/DCFireworksVideo_EN-US8421768495_1920x1080.jpg](wallpapers/20200708/DCFireworksVideo_EN-US8421768495_1920x1080.jpg)
+![wallpapers/20200709/DCFireworksVideo_EN-US8421768495_1920x1080.jpg](wallpapers/20200709/DCFireworksVideo_EN-US8421768495_1920x1080.jpg)
 
-### wallpapers/20200708/DogDays_EN-US8346150221_1920x1080.jpg
+### wallpapers/20200709/DogDays_EN-US8346150221_1920x1080.jpg
 
-![wallpapers/20200708/DogDays_EN-US8346150221_1920x1080.jpg](wallpapers/20200708/DogDays_EN-US8346150221_1920x1080.jpg)
+![wallpapers/20200709/DogDays_EN-US8346150221_1920x1080.jpg](wallpapers/20200709/DogDays_EN-US8346150221_1920x1080.jpg)
 
-### wallpapers/20200708/JabiruStork_EN-US8149873721_1920x1080.jpg
+### wallpapers/20200709/Kamchatka_EN-US8643478695_1920x1080.jpg
 
-![wallpapers/20200708/JabiruStork_EN-US8149873721_1920x1080.jpg](wallpapers/20200708/JabiruStork_EN-US8149873721_1920x1080.jpg)
+![wallpapers/20200709/Kamchatka_EN-US8643478695_1920x1080.jpg](wallpapers/20200709/Kamchatka_EN-US8643478695_1920x1080.jpg)
 
-### wallpapers/20200708/Kamchatka_EN-US8643478695_1920x1080.jpg
+### wallpapers/20200709/LakeMoraineVideo_EN-US8210097422_1920x1080.jpg
 
-![wallpapers/20200708/Kamchatka_EN-US8643478695_1920x1080.jpg](wallpapers/20200708/Kamchatka_EN-US8643478695_1920x1080.jpg)
+![wallpapers/20200709/LakeMoraineVideo_EN-US8210097422_1920x1080.jpg](wallpapers/20200709/LakeMoraineVideo_EN-US8210097422_1920x1080.jpg)
 
-### wallpapers/20200708/LakeMoraineVideo_EN-US8210097422_1920x1080.jpg
+### wallpapers/20200709/NantucketIsland_EN-US8524704470_1920x1080.jpg
 
-![wallpapers/20200708/LakeMoraineVideo_EN-US8210097422_1920x1080.jpg](wallpapers/20200708/LakeMoraineVideo_EN-US8210097422_1920x1080.jpg)
+![wallpapers/20200709/NantucketIsland_EN-US8524704470_1920x1080.jpg](wallpapers/20200709/NantucketIsland_EN-US8524704470_1920x1080.jpg)
 
-### wallpapers/20200708/NantucketIsland_EN-US8524704470_1920x1080.jpg
+### wallpapers/20200709/NorfolkPups_EN-US8929436581_1920x1080.jpg
 
-![wallpapers/20200708/NantucketIsland_EN-US8524704470_1920x1080.jpg](wallpapers/20200708/NantucketIsland_EN-US8524704470_1920x1080.jpg)
+![wallpapers/20200709/NorfolkPups_EN-US8929436581_1920x1080.jpg](wallpapers/20200709/NorfolkPups_EN-US8929436581_1920x1080.jpg)
 
-### wallpapers/20200708/RhodesIsland_EN-US8293735829_1920x1080.jpg
+### wallpapers/20200709/RhodesIsland_EN-US8293735829_1920x1080.jpg
 
-![wallpapers/20200708/RhodesIsland_EN-US8293735829_1920x1080.jpg](wallpapers/20200708/RhodesIsland_EN-US8293735829_1920x1080.jpg)
+![wallpapers/20200709/RhodesIsland_EN-US8293735829_1920x1080.jpg](wallpapers/20200709/RhodesIsland_EN-US8293735829_1920x1080.jpg)
 

@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20200710/CalorisMDIS_EN-US8770644601_1920x1080.jpg
+### wallpapers/20200711/BellTowerItaly_EN-US0542629493_1920x1080.jpg
 
-![wallpapers/20200710/CalorisMDIS_EN-US8770644601_1920x1080.jpg](wallpapers/20200710/CalorisMDIS_EN-US8770644601_1920x1080.jpg)
+![wallpapers/20200711/BellTowerItaly_EN-US0542629493_1920x1080.jpg](wallpapers/20200711/BellTowerItaly_EN-US0542629493_1920x1080.jpg)
 
-### wallpapers/20200710/ColoradoColumbine_EN-US9097456615_1920x1080.jpg
+### wallpapers/20200711/CalorisMDIS_EN-US8770644601_1920x1080.jpg
 
-![wallpapers/20200710/ColoradoColumbine_EN-US9097456615_1920x1080.jpg](wallpapers/20200710/ColoradoColumbine_EN-US9097456615_1920x1080.jpg)
+![wallpapers/20200711/CalorisMDIS_EN-US8770644601_1920x1080.jpg](wallpapers/20200711/CalorisMDIS_EN-US8770644601_1920x1080.jpg)
 
-### wallpapers/20200710/DCFireworksVideo_EN-US8421768495_1920x1080.jpg
+### wallpapers/20200711/ColoradoColumbine_EN-US9097456615_1920x1080.jpg
 
-![wallpapers/20200710/DCFireworksVideo_EN-US8421768495_1920x1080.jpg](wallpapers/20200710/DCFireworksVideo_EN-US8421768495_1920x1080.jpg)
+![wallpapers/20200711/ColoradoColumbine_EN-US9097456615_1920x1080.jpg](wallpapers/20200711/ColoradoColumbine_EN-US9097456615_1920x1080.jpg)
 
-### wallpapers/20200710/DogDays_EN-US8346150221_1920x1080.jpg
+### wallpapers/20200711/DCFireworksVideo_EN-US8421768495_1920x1080.jpg
 
-![wallpapers/20200710/DogDays_EN-US8346150221_1920x1080.jpg](wallpapers/20200710/DogDays_EN-US8346150221_1920x1080.jpg)
+![wallpapers/20200711/DCFireworksVideo_EN-US8421768495_1920x1080.jpg](wallpapers/20200711/DCFireworksVideo_EN-US8421768495_1920x1080.jpg)
 
-### wallpapers/20200710/Kamchatka_EN-US8643478695_1920x1080.jpg
+### wallpapers/20200711/DogDays_EN-US8346150221_1920x1080.jpg
 
-![wallpapers/20200710/Kamchatka_EN-US8643478695_1920x1080.jpg](wallpapers/20200710/Kamchatka_EN-US8643478695_1920x1080.jpg)
+![wallpapers/20200711/DogDays_EN-US8346150221_1920x1080.jpg](wallpapers/20200711/DogDays_EN-US8346150221_1920x1080.jpg)
 
-### wallpapers/20200710/NantucketIsland_EN-US8524704470_1920x1080.jpg
+### wallpapers/20200711/Kamchatka_EN-US8643478695_1920x1080.jpg
 
-![wallpapers/20200710/NantucketIsland_EN-US8524704470_1920x1080.jpg](wallpapers/20200710/NantucketIsland_EN-US8524704470_1920x1080.jpg)
+![wallpapers/20200711/Kamchatka_EN-US8643478695_1920x1080.jpg](wallpapers/20200711/Kamchatka_EN-US8643478695_1920x1080.jpg)
 
-### wallpapers/20200710/NorfolkPups_EN-US8929436581_1920x1080.jpg
+### wallpapers/20200711/NantucketIsland_EN-US8524704470_1920x1080.jpg
 
-![wallpapers/20200710/NorfolkPups_EN-US8929436581_1920x1080.jpg](wallpapers/20200710/NorfolkPups_EN-US8929436581_1920x1080.jpg)
+![wallpapers/20200711/NantucketIsland_EN-US8524704470_1920x1080.jpg](wallpapers/20200711/NantucketIsland_EN-US8524704470_1920x1080.jpg)
 
-### wallpapers/20200710/RhodesIsland_EN-US8293735829_1920x1080.jpg
+### wallpapers/20200711/NorfolkPups_EN-US8929436581_1920x1080.jpg
 
-![wallpapers/20200710/RhodesIsland_EN-US8293735829_1920x1080.jpg](wallpapers/20200710/RhodesIsland_EN-US8293735829_1920x1080.jpg)
+![wallpapers/20200711/NorfolkPups_EN-US8929436581_1920x1080.jpg](wallpapers/20200711/NorfolkPups_EN-US8929436581_1920x1080.jpg)
 

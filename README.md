@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20200727/ADA30_EN-US1238886685_1920x1080.jpg
+### wallpapers/20200728/ADA30_EN-US1238886685_1920x1080.jpg
 
-![wallpapers/20200727/ADA30_EN-US1238886685_1920x1080.jpg](wallpapers/20200727/ADA30_EN-US1238886685_1920x1080.jpg)
+![wallpapers/20200728/ADA30_EN-US1238886685_1920x1080.jpg](wallpapers/20200728/ADA30_EN-US1238886685_1920x1080.jpg)
 
-### wallpapers/20200727/DinantBelgium_EN-US0892462948_1920x1080.jpg
+### wallpapers/20200728/AerialTamul_EN-US1289516805_1920x1080.jpg
 
-![wallpapers/20200727/DinantBelgium_EN-US0892462948_1920x1080.jpg](wallpapers/20200727/DinantBelgium_EN-US0892462948_1920x1080.jpg)
+![wallpapers/20200728/AerialTamul_EN-US1289516805_1920x1080.jpg](wallpapers/20200728/AerialTamul_EN-US1289516805_1920x1080.jpg)
 
-### wallpapers/20200727/DubrovnikDoors_EN-US2971042587_1920x1080.jpg
+### wallpapers/20200728/DinantBelgium_EN-US0892462948_1920x1080.jpg
 
-![wallpapers/20200727/DubrovnikDoors_EN-US2971042587_1920x1080.jpg](wallpapers/20200727/DubrovnikDoors_EN-US2971042587_1920x1080.jpg)
+![wallpapers/20200728/DinantBelgium_EN-US0892462948_1920x1080.jpg](wallpapers/20200728/DinantBelgium_EN-US0892462948_1920x1080.jpg)
 
-### wallpapers/20200727/EarthriseSequence_EN-US0444696608_1920x1080.jpg
+### wallpapers/20200728/DubrovnikDoors_EN-US2971042587_1920x1080.jpg
 
-![wallpapers/20200727/EarthriseSequence_EN-US0444696608_1920x1080.jpg](wallpapers/20200727/EarthriseSequence_EN-US0444696608_1920x1080.jpg)
+![wallpapers/20200728/DubrovnikDoors_EN-US2971042587_1920x1080.jpg](wallpapers/20200728/DubrovnikDoors_EN-US2971042587_1920x1080.jpg)
 
-### wallpapers/20200727/GrandCanalGondolas_EN-US0380987930_1920x1080.jpg
+### wallpapers/20200728/EarthriseSequence_EN-US0444696608_1920x1080.jpg
 
-![wallpapers/20200727/GrandCanalGondolas_EN-US0380987930_1920x1080.jpg](wallpapers/20200727/GrandCanalGondolas_EN-US0380987930_1920x1080.jpg)
+![wallpapers/20200728/EarthriseSequence_EN-US0444696608_1920x1080.jpg](wallpapers/20200728/EarthriseSequence_EN-US0444696608_1920x1080.jpg)
 
-### wallpapers/20200727/KapamaCousins_EN-US1071916004_1920x1080.jpg
+### wallpapers/20200728/KapamaCousins_EN-US1071916004_1920x1080.jpg
 
-![wallpapers/20200727/KapamaCousins_EN-US1071916004_1920x1080.jpg](wallpapers/20200727/KapamaCousins_EN-US1071916004_1920x1080.jpg)
+![wallpapers/20200728/KapamaCousins_EN-US1071916004_1920x1080.jpg](wallpapers/20200728/KapamaCousins_EN-US1071916004_1920x1080.jpg)
 
-### wallpapers/20200727/RedBlueWildebeest_EN-US0956286533_1920x1080.jpg
+### wallpapers/20200728/RedBlueWildebeest_EN-US0956286533_1920x1080.jpg
 
-![wallpapers/20200727/RedBlueWildebeest_EN-US0956286533_1920x1080.jpg](wallpapers/20200727/RedBlueWildebeest_EN-US0956286533_1920x1080.jpg)
+![wallpapers/20200728/RedBlueWildebeest_EN-US0956286533_1920x1080.jpg](wallpapers/20200728/RedBlueWildebeest_EN-US0956286533_1920x1080.jpg)
 
-### wallpapers/20200727/RedSailboat_EN-US1173520356_1920x1080.jpg
+### wallpapers/20200728/RedSailboat_EN-US1173520356_1920x1080.jpg
 
-![wallpapers/20200727/RedSailboat_EN-US1173520356_1920x1080.jpg](wallpapers/20200727/RedSailboat_EN-US1173520356_1920x1080.jpg)
+![wallpapers/20200728/RedSailboat_EN-US1173520356_1920x1080.jpg](wallpapers/20200728/RedSailboat_EN-US1173520356_1920x1080.jpg)
 

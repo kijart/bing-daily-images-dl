@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20200901/BicycleSculptures_EN-US3449807795_1920x1080.jpg
+### wallpapers/20200902/BicycleSculptures_EN-US3449807795_1920x1080.jpg
 
-![wallpapers/20200901/BicycleSculptures_EN-US3449807795_1920x1080.jpg](wallpapers/20200901/BicycleSculptures_EN-US3449807795_1920x1080.jpg)
+![wallpapers/20200902/BicycleSculptures_EN-US3449807795_1920x1080.jpg](wallpapers/20200902/BicycleSculptures_EN-US3449807795_1920x1080.jpg)
 
-### wallpapers/20200901/CrystalRiver_EN-US8025232239_1920x1080.jpg
+### wallpapers/20200902/MakeHay_EN-US3538917204_1920x1080.jpg
 
-![wallpapers/20200901/CrystalRiver_EN-US8025232239_1920x1080.jpg](wallpapers/20200901/CrystalRiver_EN-US8025232239_1920x1080.jpg)
+![wallpapers/20200902/MakeHay_EN-US3538917204_1920x1080.jpg](wallpapers/20200902/MakeHay_EN-US3538917204_1920x1080.jpg)
 
-### wallpapers/20200901/MakeHay_EN-US3538917204_1920x1080.jpg
+### wallpapers/20200902/MonteCristo_EN-US3353853394_1920x1080.jpg
 
-![wallpapers/20200901/MakeHay_EN-US3538917204_1920x1080.jpg](wallpapers/20200901/MakeHay_EN-US3538917204_1920x1080.jpg)
+![wallpapers/20200902/MonteCristo_EN-US3353853394_1920x1080.jpg](wallpapers/20200902/MonteCristo_EN-US3353853394_1920x1080.jpg)
 
-### wallpapers/20200901/MonteCristo_EN-US3353853394_1920x1080.jpg
+### wallpapers/20200902/OkanaganSpots_EN-US8113040044_1920x1080.jpg
 
-![wallpapers/20200901/MonteCristo_EN-US3353853394_1920x1080.jpg](wallpapers/20200901/MonteCristo_EN-US3353853394_1920x1080.jpg)
+![wallpapers/20200902/OkanaganSpots_EN-US8113040044_1920x1080.jpg](wallpapers/20200902/OkanaganSpots_EN-US8113040044_1920x1080.jpg)
 
-### wallpapers/20200901/OkanaganSpots_EN-US8113040044_1920x1080.jpg
+### wallpapers/20200902/OysterMushroom_EN-US3687134393_1920x1080.jpg
 
-![wallpapers/20200901/OkanaganSpots_EN-US8113040044_1920x1080.jpg](wallpapers/20200901/OkanaganSpots_EN-US8113040044_1920x1080.jpg)
+![wallpapers/20200902/OysterMushroom_EN-US3687134393_1920x1080.jpg](wallpapers/20200902/OysterMushroom_EN-US3687134393_1920x1080.jpg)
 
-### wallpapers/20200901/PRNLCavern_EN-US7693319589_1920x1080.jpg
+### wallpapers/20200902/PRNLCavern_EN-US7693319589_1920x1080.jpg
 
-![wallpapers/20200901/PRNLCavern_EN-US7693319589_1920x1080.jpg](wallpapers/20200901/PRNLCavern_EN-US7693319589_1920x1080.jpg)
+![wallpapers/20200902/PRNLCavern_EN-US7693319589_1920x1080.jpg](wallpapers/20200902/PRNLCavern_EN-US7693319589_1920x1080.jpg)
 
-### wallpapers/20200901/PancakeRocks_EN-US1220361824_1920x1080.jpg
+### wallpapers/20200902/PancakeRocks_EN-US1220361824_1920x1080.jpg
 
-![wallpapers/20200901/PancakeRocks_EN-US1220361824_1920x1080.jpg](wallpapers/20200901/PancakeRocks_EN-US1220361824_1920x1080.jpg)
+![wallpapers/20200902/PancakeRocks_EN-US1220361824_1920x1080.jpg](wallpapers/20200902/PancakeRocks_EN-US1220361824_1920x1080.jpg)
 
-### wallpapers/20200901/SailingStone_EN-US8158160103_1920x1080.jpg
+### wallpapers/20200902/SailingStone_EN-US8158160103_1920x1080.jpg
 
-![wallpapers/20200901/SailingStone_EN-US8158160103_1920x1080.jpg](wallpapers/20200901/SailingStone_EN-US8158160103_1920x1080.jpg)
+![wallpapers/20200902/SailingStone_EN-US8158160103_1920x1080.jpg](wallpapers/20200902/SailingStone_EN-US8158160103_1920x1080.jpg)
 

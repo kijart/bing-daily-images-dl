@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20201024/BLNC_EN-US2449834923_1920x1080.jpg
+### wallpapers/20201025/BLNC_EN-US2449834923_1920x1080.jpg
 
-![wallpapers/20201024/BLNC_EN-US2449834923_1920x1080.jpg](wallpapers/20201024/BLNC_EN-US2449834923_1920x1080.jpg)
+![wallpapers/20201025/BLNC_EN-US2449834923_1920x1080.jpg](wallpapers/20201025/BLNC_EN-US2449834923_1920x1080.jpg)
 
-### wallpapers/20201024/BentsGeneral_EN-US0472253814_1920x1080.jpg
+### wallpapers/20201025/BentsGeneral_EN-US0472253814_1920x1080.jpg
 
-![wallpapers/20201024/BentsGeneral_EN-US0472253814_1920x1080.jpg](wallpapers/20201024/BentsGeneral_EN-US0472253814_1920x1080.jpg)
+![wallpapers/20201025/BentsGeneral_EN-US0472253814_1920x1080.jpg](wallpapers/20201025/BentsGeneral_EN-US0472253814_1920x1080.jpg)
 
-### wallpapers/20201024/ChameleonIndonesia_EN-US2666519923_1920x1080.jpg
+### wallpapers/20201025/ChameleonIndonesia_EN-US2666519923_1920x1080.jpg
 
-![wallpapers/20201024/ChameleonIndonesia_EN-US2666519923_1920x1080.jpg](wallpapers/20201024/ChameleonIndonesia_EN-US2666519923_1920x1080.jpg)
+![wallpapers/20201025/ChameleonIndonesia_EN-US2666519923_1920x1080.jpg](wallpapers/20201025/ChameleonIndonesia_EN-US2666519923_1920x1080.jpg)
 
-### wallpapers/20201024/LauwersmeerNP_EN-US2836506313_1920x1080.jpg
+### wallpapers/20201025/LauwersmeerNP_EN-US2836506313_1920x1080.jpg
 
-![wallpapers/20201024/LauwersmeerNP_EN-US2836506313_1920x1080.jpg](wallpapers/20201024/LauwersmeerNP_EN-US2836506313_1920x1080.jpg)
+![wallpapers/20201025/LauwersmeerNP_EN-US2836506313_1920x1080.jpg](wallpapers/20201025/LauwersmeerNP_EN-US2836506313_1920x1080.jpg)
 
-### wallpapers/20201024/MatiSiTemple_EN-US2396131405_1920x1080.jpg
+### wallpapers/20201025/MatiSiTemple_EN-US2396131405_1920x1080.jpg
 
-![wallpapers/20201024/MatiSiTemple_EN-US2396131405_1920x1080.jpg](wallpapers/20201024/MatiSiTemple_EN-US2396131405_1920x1080.jpg)
+![wallpapers/20201025/MatiSiTemple_EN-US2396131405_1920x1080.jpg](wallpapers/20201025/MatiSiTemple_EN-US2396131405_1920x1080.jpg)
 
-### wallpapers/20201024/PisgahNationalForest_EN-US2033382937_1920x1080.jpg
+### wallpapers/20201025/PisgahNationalForest_EN-US2033382937_1920x1080.jpg
 
-![wallpapers/20201024/PisgahNationalForest_EN-US2033382937_1920x1080.jpg](wallpapers/20201024/PisgahNationalForest_EN-US2033382937_1920x1080.jpg)
+![wallpapers/20201025/PisgahNationalForest_EN-US2033382937_1920x1080.jpg](wallpapers/20201025/PisgahNationalForest_EN-US2033382937_1920x1080.jpg)
 
-### wallpapers/20201024/SitkaHarbor_EN-US2258438192_1920x1080.jpg
+### wallpapers/20201025/SitkaHarbor_EN-US2258438192_1920x1080.jpg
 
-![wallpapers/20201024/SitkaHarbor_EN-US2258438192_1920x1080.jpg](wallpapers/20201024/SitkaHarbor_EN-US2258438192_1920x1080.jpg)
+![wallpapers/20201025/SitkaHarbor_EN-US2258438192_1920x1080.jpg](wallpapers/20201025/SitkaHarbor_EN-US2258438192_1920x1080.jpg)
 
-### wallpapers/20201024/WorldFoodDay_EN-US1932305468_1920x1080.jpg
+### wallpapers/20201025/UNBuilding_EN-US0522265387_1920x1080.jpg
 
-![wallpapers/20201024/WorldFoodDay_EN-US1932305468_1920x1080.jpg](wallpapers/20201024/WorldFoodDay_EN-US1932305468_1920x1080.jpg)
+![wallpapers/20201025/UNBuilding_EN-US0522265387_1920x1080.jpg](wallpapers/20201025/UNBuilding_EN-US0522265387_1920x1080.jpg)
 

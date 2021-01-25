@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20210124/BloodyBrook_EN-US5215856823_1920x1080.jpg
+### wallpapers/20210125/BloodyBrook_EN-US5215856823_1920x1080.jpg
 
-![wallpapers/20210124/BloodyBrook_EN-US5215856823_1920x1080.jpg](wallpapers/20210124/BloodyBrook_EN-US5215856823_1920x1080.jpg)
+![wallpapers/20210125/BloodyBrook_EN-US5215856823_1920x1080.jpg](wallpapers/20210125/BloodyBrook_EN-US5215856823_1920x1080.jpg)
 
-### wallpapers/20210124/Calakmul_EN-US4913753574_1920x1080.jpg
+### wallpapers/20210125/Calakmul_EN-US4913753574_1920x1080.jpg
 
-![wallpapers/20210124/Calakmul_EN-US4913753574_1920x1080.jpg](wallpapers/20210124/Calakmul_EN-US4913753574_1920x1080.jpg)
+![wallpapers/20210125/Calakmul_EN-US4913753574_1920x1080.jpg](wallpapers/20210125/Calakmul_EN-US4913753574_1920x1080.jpg)
 
-### wallpapers/20210124/ChuDangYa_EN-US5293170065_1920x1080.jpg
+### wallpapers/20210125/ChuDangYa_EN-US5293170065_1920x1080.jpg
 
-![wallpapers/20210124/ChuDangYa_EN-US5293170065_1920x1080.jpg](wallpapers/20210124/ChuDangYa_EN-US5293170065_1920x1080.jpg)
+![wallpapers/20210125/ChuDangYa_EN-US5293170065_1920x1080.jpg](wallpapers/20210125/ChuDangYa_EN-US5293170065_1920x1080.jpg)
 
-### wallpapers/20210124/GentooLeap_EN-US4983496966_1920x1080.jpg
+### wallpapers/20210125/GentooLeap_EN-US4983496966_1920x1080.jpg
 
-![wallpapers/20210124/GentooLeap_EN-US4983496966_1920x1080.jpg](wallpapers/20210124/GentooLeap_EN-US4983496966_1920x1080.jpg)
+![wallpapers/20210125/GentooLeap_EN-US4983496966_1920x1080.jpg](wallpapers/20210125/GentooLeap_EN-US4983496966_1920x1080.jpg)
 
-### wallpapers/20210124/GlassIgloos_EN-US4753593580_1920x1080.jpg
+### wallpapers/20210125/IHADInscription_EN-US1526588709_1920x1080.jpg
 
-![wallpapers/20210124/GlassIgloos_EN-US4753593580_1920x1080.jpg](wallpapers/20210124/GlassIgloos_EN-US4753593580_1920x1080.jpg)
+![wallpapers/20210125/IHADInscription_EN-US1526588709_1920x1080.jpg](wallpapers/20210125/IHADInscription_EN-US1526588709_1920x1080.jpg)
 
-### wallpapers/20210124/IHADInscription_EN-US1526588709_1920x1080.jpg
+### wallpapers/20210125/Molas_EN-US5410137458_1920x1080.jpg
 
-![wallpapers/20210124/IHADInscription_EN-US1526588709_1920x1080.jpg](wallpapers/20210124/IHADInscription_EN-US1526588709_1920x1080.jpg)
+![wallpapers/20210125/Molas_EN-US5410137458_1920x1080.jpg](wallpapers/20210125/Molas_EN-US5410137458_1920x1080.jpg)
 
-### wallpapers/20210124/PailonDelDiablo_EN-US4820504961_1920x1080.jpg
+### wallpapers/20210125/PailonDelDiablo_EN-US4820504961_1920x1080.jpg
 
-![wallpapers/20210124/PailonDelDiablo_EN-US4820504961_1920x1080.jpg](wallpapers/20210124/PailonDelDiablo_EN-US4820504961_1920x1080.jpg)
+![wallpapers/20210125/PailonDelDiablo_EN-US4820504961_1920x1080.jpg](wallpapers/20210125/PailonDelDiablo_EN-US4820504961_1920x1080.jpg)
 
-### wallpapers/20210124/RSOakTree_EN-US5122271963_1920x1080.jpg
+### wallpapers/20210125/RSOakTree_EN-US5122271963_1920x1080.jpg
 
-![wallpapers/20210124/RSOakTree_EN-US5122271963_1920x1080.jpg](wallpapers/20210124/RSOakTree_EN-US5122271963_1920x1080.jpg)
+![wallpapers/20210125/RSOakTree_EN-US5122271963_1920x1080.jpg](wallpapers/20210125/RSOakTree_EN-US5122271963_1920x1080.jpg)
 

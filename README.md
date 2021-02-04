@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20210203/ArcticWolf_EN-US5836595388_1920x1080.jpg
+### wallpapers/20210204/ArcticWolf_EN-US5836595388_1920x1080.jpg
 
-![wallpapers/20210203/ArcticWolf_EN-US5836595388_1920x1080.jpg](wallpapers/20210203/ArcticWolf_EN-US5836595388_1920x1080.jpg)
+![wallpapers/20210204/ArcticWolf_EN-US5836595388_1920x1080.jpg](wallpapers/20210204/ArcticWolf_EN-US5836595388_1920x1080.jpg)
 
-### wallpapers/20210203/HeartAustralia_EN-US5604456955_1920x1080.jpg
+### wallpapers/20210204/IronworkFacade_EN-US5302409957_1920x1080.jpg
 
-![wallpapers/20210203/HeartAustralia_EN-US5604456955_1920x1080.jpg](wallpapers/20210203/HeartAustralia_EN-US5604456955_1920x1080.jpg)
+![wallpapers/20210204/IronworkFacade_EN-US5302409957_1920x1080.jpg](wallpapers/20210204/IronworkFacade_EN-US5302409957_1920x1080.jpg)
 
-### wallpapers/20210203/IronworkFacade_EN-US5302409957_1920x1080.jpg
+### wallpapers/20210204/MittenwalderHut_EN-US9402205522_1920x1080.jpg
 
-![wallpapers/20210203/IronworkFacade_EN-US5302409957_1920x1080.jpg](wallpapers/20210203/IronworkFacade_EN-US5302409957_1920x1080.jpg)
+![wallpapers/20210204/MittenwalderHut_EN-US9402205522_1920x1080.jpg](wallpapers/20210204/MittenwalderHut_EN-US9402205522_1920x1080.jpg)
 
-### wallpapers/20210203/MittenwalderHut_EN-US9402205522_1920x1080.jpg
+### wallpapers/20210204/MountNemrut_EN-US9552662409_1920x1080.jpg
 
-![wallpapers/20210203/MittenwalderHut_EN-US9402205522_1920x1080.jpg](wallpapers/20210203/MittenwalderHut_EN-US9402205522_1920x1080.jpg)
+![wallpapers/20210204/MountNemrut_EN-US9552662409_1920x1080.jpg](wallpapers/20210204/MountNemrut_EN-US9552662409_1920x1080.jpg)
 
-### wallpapers/20210203/RainbowMarmot_EN-US9496423028_1920x1080.jpg
+### wallpapers/20210204/RainbowMarmot_EN-US9496423028_1920x1080.jpg
 
-![wallpapers/20210203/RainbowMarmot_EN-US9496423028_1920x1080.jpg](wallpapers/20210203/RainbowMarmot_EN-US9496423028_1920x1080.jpg)
+![wallpapers/20210204/RainbowMarmot_EN-US9496423028_1920x1080.jpg](wallpapers/20210204/RainbowMarmot_EN-US9496423028_1920x1080.jpg)
 
-### wallpapers/20210203/RedRobin_EN-US9299641141_1920x1080.jpg
+### wallpapers/20210204/RedRobin_EN-US9299641141_1920x1080.jpg
 
-![wallpapers/20210203/RedRobin_EN-US9299641141_1920x1080.jpg](wallpapers/20210203/RedRobin_EN-US9299641141_1920x1080.jpg)
+![wallpapers/20210204/RedRobin_EN-US9299641141_1920x1080.jpg](wallpapers/20210204/RedRobin_EN-US9299641141_1920x1080.jpg)
 
-### wallpapers/20210203/SeedVault_EN-US9343000928_1920x1080.jpg
+### wallpapers/20210204/SeedVault_EN-US9343000928_1920x1080.jpg
 
-![wallpapers/20210203/SeedVault_EN-US9343000928_1920x1080.jpg](wallpapers/20210203/SeedVault_EN-US9343000928_1920x1080.jpg)
+![wallpapers/20210204/SeedVault_EN-US9343000928_1920x1080.jpg](wallpapers/20210204/SeedVault_EN-US9343000928_1920x1080.jpg)
 
-### wallpapers/20210203/Taormina_EN-US5716711058_1920x1080.jpg
+### wallpapers/20210204/Taormina_EN-US5716711058_1920x1080.jpg
 
-![wallpapers/20210203/Taormina_EN-US5716711058_1920x1080.jpg](wallpapers/20210203/Taormina_EN-US5716711058_1920x1080.jpg)
+![wallpapers/20210204/Taormina_EN-US5716711058_1920x1080.jpg](wallpapers/20210204/Taormina_EN-US5716711058_1920x1080.jpg)
 

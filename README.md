@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20210211/HeroMural_EN-US9967459324_1920x1080.jpg
+### wallpapers/20210212/CentralCaliBlossoms_EN-US0148484264_1920x1080.jpg
 
-![wallpapers/20210211/HeroMural_EN-US9967459324_1920x1080.jpg](wallpapers/20210211/HeroMural_EN-US9967459324_1920x1080.jpg)
+![wallpapers/20210212/CentralCaliBlossoms_EN-US0148484264_1920x1080.jpg](wallpapers/20210212/CentralCaliBlossoms_EN-US0148484264_1920x1080.jpg)
 
-### wallpapers/20210211/MoonDogs_EN-US0007581724_1920x1080.jpg
+### wallpapers/20210212/HeroMural_EN-US9967459324_1920x1080.jpg
 
-![wallpapers/20210211/MoonDogs_EN-US0007581724_1920x1080.jpg](wallpapers/20210211/MoonDogs_EN-US0007581724_1920x1080.jpg)
+![wallpapers/20210212/HeroMural_EN-US9967459324_1920x1080.jpg](wallpapers/20210212/HeroMural_EN-US9967459324_1920x1080.jpg)
 
-### wallpapers/20210211/MountNemrut_EN-US9552662409_1920x1080.jpg
+### wallpapers/20210212/MoonDogs_EN-US0007581724_1920x1080.jpg
 
-![wallpapers/20210211/MountNemrut_EN-US9552662409_1920x1080.jpg](wallpapers/20210211/MountNemrut_EN-US9552662409_1920x1080.jpg)
+![wallpapers/20210212/MoonDogs_EN-US0007581724_1920x1080.jpg](wallpapers/20210212/MoonDogs_EN-US0007581724_1920x1080.jpg)
 
-### wallpapers/20210211/MountSefton_EN-US9792326237_1920x1080.jpg
+### wallpapers/20210212/MountSefton_EN-US9792326237_1920x1080.jpg
 
-![wallpapers/20210211/MountSefton_EN-US9792326237_1920x1080.jpg](wallpapers/20210211/MountSefton_EN-US9792326237_1920x1080.jpg)
+![wallpapers/20210212/MountSefton_EN-US9792326237_1920x1080.jpg](wallpapers/20210212/MountSefton_EN-US9792326237_1920x1080.jpg)
 
-### wallpapers/20210211/PenitentSnow_EN-US0047515629_1920x1080.jpg
+### wallpapers/20210212/PenitentSnow_EN-US0047515629_1920x1080.jpg
 
-![wallpapers/20210211/PenitentSnow_EN-US0047515629_1920x1080.jpg](wallpapers/20210211/PenitentSnow_EN-US0047515629_1920x1080.jpg)
+![wallpapers/20210212/PenitentSnow_EN-US0047515629_1920x1080.jpg](wallpapers/20210212/PenitentSnow_EN-US0047515629_1920x1080.jpg)
 
-### wallpapers/20210211/SuperbOwl_EN-US9869366116_1920x1080.jpg
+### wallpapers/20210212/SuperbOwl_EN-US9869366116_1920x1080.jpg
 
-![wallpapers/20210211/SuperbOwl_EN-US9869366116_1920x1080.jpg](wallpapers/20210211/SuperbOwl_EN-US9869366116_1920x1080.jpg)
+![wallpapers/20210212/SuperbOwl_EN-US9869366116_1920x1080.jpg](wallpapers/20210212/SuperbOwl_EN-US9869366116_1920x1080.jpg)
 
-### wallpapers/20210211/TheWave_EN-US9748334524_1920x1080.jpg
+### wallpapers/20210212/TheWave_EN-US9748334524_1920x1080.jpg
 
-![wallpapers/20210211/TheWave_EN-US9748334524_1920x1080.jpg](wallpapers/20210211/TheWave_EN-US9748334524_1920x1080.jpg)
+![wallpapers/20210212/TheWave_EN-US9748334524_1920x1080.jpg](wallpapers/20210212/TheWave_EN-US9748334524_1920x1080.jpg)
 
-### wallpapers/20210211/VosgesBioReserve_EN-US9600640906_1920x1080.jpg
+### wallpapers/20210212/VosgesBioReserve_EN-US9600640906_1920x1080.jpg
 
-![wallpapers/20210211/VosgesBioReserve_EN-US9600640906_1920x1080.jpg](wallpapers/20210211/VosgesBioReserve_EN-US9600640906_1920x1080.jpg)
+![wallpapers/20210212/VosgesBioReserve_EN-US9600640906_1920x1080.jpg](wallpapers/20210212/VosgesBioReserve_EN-US9600640906_1920x1080.jpg)
 

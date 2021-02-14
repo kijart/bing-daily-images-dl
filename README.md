@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20210213/CentralCaliBlossoms_EN-US0148484264_1920x1080.jpg
+### wallpapers/20210214/BluebirdsEastern_EN-US5293227470_1920x1080.jpg
 
-![wallpapers/20210213/CentralCaliBlossoms_EN-US0148484264_1920x1080.jpg](wallpapers/20210213/CentralCaliBlossoms_EN-US0148484264_1920x1080.jpg)
+![wallpapers/20210214/BluebirdsEastern_EN-US5293227470_1920x1080.jpg](wallpapers/20210214/BluebirdsEastern_EN-US5293227470_1920x1080.jpg)
 
-### wallpapers/20210213/HeroMural_EN-US9967459324_1920x1080.jpg
+### wallpapers/20210214/CentralCaliBlossoms_EN-US0148484264_1920x1080.jpg
 
-![wallpapers/20210213/HeroMural_EN-US9967459324_1920x1080.jpg](wallpapers/20210213/HeroMural_EN-US9967459324_1920x1080.jpg)
+![wallpapers/20210214/CentralCaliBlossoms_EN-US0148484264_1920x1080.jpg](wallpapers/20210214/CentralCaliBlossoms_EN-US0148484264_1920x1080.jpg)
 
-### wallpapers/20210213/MoonDogs_EN-US0007581724_1920x1080.jpg
+### wallpapers/20210214/HeroMural_EN-US9967459324_1920x1080.jpg
 
-![wallpapers/20210213/MoonDogs_EN-US0007581724_1920x1080.jpg](wallpapers/20210213/MoonDogs_EN-US0007581724_1920x1080.jpg)
+![wallpapers/20210214/HeroMural_EN-US9967459324_1920x1080.jpg](wallpapers/20210214/HeroMural_EN-US9967459324_1920x1080.jpg)
 
-### wallpapers/20210213/MountSefton_EN-US9792326237_1920x1080.jpg
+### wallpapers/20210214/MoonDogs_EN-US0007581724_1920x1080.jpg
 
-![wallpapers/20210213/MountSefton_EN-US9792326237_1920x1080.jpg](wallpapers/20210213/MountSefton_EN-US9792326237_1920x1080.jpg)
+![wallpapers/20210214/MoonDogs_EN-US0007581724_1920x1080.jpg](wallpapers/20210214/MoonDogs_EN-US0007581724_1920x1080.jpg)
 
-### wallpapers/20210213/PenitentSnow_EN-US0047515629_1920x1080.jpg
+### wallpapers/20210214/MountSefton_EN-US9792326237_1920x1080.jpg
 
-![wallpapers/20210213/PenitentSnow_EN-US0047515629_1920x1080.jpg](wallpapers/20210213/PenitentSnow_EN-US0047515629_1920x1080.jpg)
+![wallpapers/20210214/MountSefton_EN-US9792326237_1920x1080.jpg](wallpapers/20210214/MountSefton_EN-US9792326237_1920x1080.jpg)
 
-### wallpapers/20210213/SuperbOwl_EN-US9869366116_1920x1080.jpg
+### wallpapers/20210214/PenitentSnow_EN-US0047515629_1920x1080.jpg
 
-![wallpapers/20210213/SuperbOwl_EN-US9869366116_1920x1080.jpg](wallpapers/20210213/SuperbOwl_EN-US9869366116_1920x1080.jpg)
+![wallpapers/20210214/PenitentSnow_EN-US0047515629_1920x1080.jpg](wallpapers/20210214/PenitentSnow_EN-US0047515629_1920x1080.jpg)
 
-### wallpapers/20210213/TheWave_EN-US9748334524_1920x1080.jpg
+### wallpapers/20210214/SuperbOwl_EN-US9869366116_1920x1080.jpg
 
-![wallpapers/20210213/TheWave_EN-US9748334524_1920x1080.jpg](wallpapers/20210213/TheWave_EN-US9748334524_1920x1080.jpg)
+![wallpapers/20210214/SuperbOwl_EN-US9869366116_1920x1080.jpg](wallpapers/20210214/SuperbOwl_EN-US9869366116_1920x1080.jpg)
 
-### wallpapers/20210213/YearoftheOx_EN-US5106152536_1920x1080.jpg
+### wallpapers/20210214/YearoftheOx_EN-US5106152536_1920x1080.jpg
 
-![wallpapers/20210213/YearoftheOx_EN-US5106152536_1920x1080.jpg](wallpapers/20210213/YearoftheOx_EN-US5106152536_1920x1080.jpg)
+![wallpapers/20210214/YearoftheOx_EN-US5106152536_1920x1080.jpg](wallpapers/20210214/YearoftheOx_EN-US5106152536_1920x1080.jpg)
 

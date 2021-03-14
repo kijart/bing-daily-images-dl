@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20210313/AztecNewYear_EN-US8147148173_1920x1080.jpg
+### wallpapers/20210314/AztecNewYear_EN-US8147148173_1920x1080.jpg
 
-![wallpapers/20210313/AztecNewYear_EN-US8147148173_1920x1080.jpg](wallpapers/20210313/AztecNewYear_EN-US8147148173_1920x1080.jpg)
+![wallpapers/20210314/AztecNewYear_EN-US8147148173_1920x1080.jpg](wallpapers/20210314/AztecNewYear_EN-US8147148173_1920x1080.jpg)
 
-### wallpapers/20210313/CapePerpetua_EN-US1381606733_1920x1080.jpg
+### wallpapers/20210314/CapePerpetua_EN-US1381606733_1920x1080.jpg
 
-![wallpapers/20210313/CapePerpetua_EN-US1381606733_1920x1080.jpg](wallpapers/20210313/CapePerpetua_EN-US1381606733_1920x1080.jpg)
+![wallpapers/20210314/CapePerpetua_EN-US1381606733_1920x1080.jpg](wallpapers/20210314/CapePerpetua_EN-US1381606733_1920x1080.jpg)
 
-### wallpapers/20210313/HarrietTubman_EN-US1054261891_1920x1080.jpg
+### wallpapers/20210314/HarrietTubman_EN-US1054261891_1920x1080.jpg
 
-![wallpapers/20210313/HarrietTubman_EN-US1054261891_1920x1080.jpg](wallpapers/20210313/HarrietTubman_EN-US1054261891_1920x1080.jpg)
+![wallpapers/20210314/HarrietTubman_EN-US1054261891_1920x1080.jpg](wallpapers/20210314/HarrietTubman_EN-US1054261891_1920x1080.jpg)
 
-### wallpapers/20210313/MinasdeRioTinto_EN-US0408244151_1920x1080.jpg
+### wallpapers/20210314/NotoriousRBG_EN-US0765557260_1920x1080.jpg
 
-![wallpapers/20210313/MinasdeRioTinto_EN-US0408244151_1920x1080.jpg](wallpapers/20210313/MinasdeRioTinto_EN-US0408244151_1920x1080.jpg)
+![wallpapers/20210314/NotoriousRBG_EN-US0765557260_1920x1080.jpg](wallpapers/20210314/NotoriousRBG_EN-US0765557260_1920x1080.jpg)
 
-### wallpapers/20210313/NotoriousRBG_EN-US0765557260_1920x1080.jpg
+### wallpapers/20210314/PadarIsland_EN-US0491336626_1920x1080.jpg
 
-![wallpapers/20210313/NotoriousRBG_EN-US0765557260_1920x1080.jpg](wallpapers/20210313/NotoriousRBG_EN-US0765557260_1920x1080.jpg)
+![wallpapers/20210314/PadarIsland_EN-US0491336626_1920x1080.jpg](wallpapers/20210314/PadarIsland_EN-US0491336626_1920x1080.jpg)
 
-### wallpapers/20210313/PadarIsland_EN-US0491336626_1920x1080.jpg
+### wallpapers/20210314/Rhododendron_EN-US8246366006_1920x1080.jpg
 
-![wallpapers/20210313/PadarIsland_EN-US0491336626_1920x1080.jpg](wallpapers/20210313/PadarIsland_EN-US0491336626_1920x1080.jpg)
+![wallpapers/20210314/Rhododendron_EN-US8246366006_1920x1080.jpg](wallpapers/20210314/Rhododendron_EN-US8246366006_1920x1080.jpg)
 
-### wallpapers/20210313/RollingHills_EN-US0930573674_1920x1080.jpg
+### wallpapers/20210314/RollingHills_EN-US0930573674_1920x1080.jpg
 
-![wallpapers/20210313/RollingHills_EN-US0930573674_1920x1080.jpg](wallpapers/20210313/RollingHills_EN-US0930573674_1920x1080.jpg)
+![wallpapers/20210314/RollingHills_EN-US0930573674_1920x1080.jpg](wallpapers/20210314/RollingHills_EN-US0930573674_1920x1080.jpg)
 
-### wallpapers/20210313/Wakodahatchee_EN-US0593250314_1920x1080.jpg
+### wallpapers/20210314/Wakodahatchee_EN-US0593250314_1920x1080.jpg
 
-![wallpapers/20210313/Wakodahatchee_EN-US0593250314_1920x1080.jpg](wallpapers/20210313/Wakodahatchee_EN-US0593250314_1920x1080.jpg)
+![wallpapers/20210314/Wakodahatchee_EN-US0593250314_1920x1080.jpg](wallpapers/20210314/Wakodahatchee_EN-US0593250314_1920x1080.jpg)
 

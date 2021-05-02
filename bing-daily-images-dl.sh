@@ -1,3 +1,5 @@
+#!/bin/bash
+
 get_today_bing_images() {
   KEY="url"
 
@@ -12,22 +14,22 @@ get_today_bing_images() {
 }
 
 download_images() {
-  working_directory=wallpapers/`date +"%Y%m%d"`
-  bing_images_endpoint=https://www.bing.com/HPImageArchive.aspx\?format\=js\&idx\=0\&n\=8
+  working_directory=wallpapers/$(date +"%Y%m%d")
+  bing_images_endpoint="https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8"
 
-  echo "Downloading today's bing images...\n"
+  printf "Downloading today's bing images...\n"
 
-  mkdir -p $working_directory
-  cd $working_directory
-  curl -s -X GET $bing_images_endpoint | get_today_bing_images | xargs -n 1 curl -O
+  mkdir -p "$working_directory"
+  cd "$working_directory" || exit
+  curl -s -X GET "$bing_images_endpoint" | get_today_bing_images | xargs -n 1 curl -O
 
   # fix filenames
   for filename in th\?id=*
   do
-    mv "$filename" "$(echo $filename | awk -F'[=&]' '{print $2}' | sed 's/^.\{4\}//g')"
+    mv "$filename" "$(echo "$filename" | awk -F'[=&]' '{print $2}' | sed 's/^.\{4\}//g')"
   done
 
-  echo "\nImages stored in $working_directory\n"
+  printf "\nImages stored in %s\n" "$working_directory"
   cd ..
   echo "Done"
 }

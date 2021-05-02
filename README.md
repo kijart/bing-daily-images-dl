@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20210322/BifengxiaPanda_EN-US8585443782_1920x1080.jpg
+### wallpapers/20210502/AdelieDiving_EN-US0845944074_1920x1080.jpg
 
-![wallpapers/20210322/BifengxiaPanda_EN-US8585443782_1920x1080.jpg](wallpapers/20210322/BifengxiaPanda_EN-US8585443782_1920x1080.jpg)
+![wallpapers/20210502/AdelieDiving_EN-US0845944074_1920x1080.jpg](wallpapers/20210502/AdelieDiving_EN-US0845944074_1920x1080.jpg)
 
-### wallpapers/20210322/HallesWood_EN-US9545891830_1920x1080.jpg
+### wallpapers/20210502/GGTeaGarden_EN-US1647173456_1920x1080.jpg
 
-![wallpapers/20210322/HallesWood_EN-US9545891830_1920x1080.jpg](wallpapers/20210322/HallesWood_EN-US9545891830_1920x1080.jpg)
+![wallpapers/20210502/GGTeaGarden_EN-US1647173456_1920x1080.jpg](wallpapers/20210502/GGTeaGarden_EN-US1647173456_1920x1080.jpg)
 
-### wallpapers/20210322/Inisheer_EN-US8680602205_1920x1080.jpg
+### wallpapers/20210502/GannetsSaltee_EN-US1285648780_1920x1080.jpg
 
-![wallpapers/20210322/Inisheer_EN-US8680602205_1920x1080.jpg](wallpapers/20210322/Inisheer_EN-US8680602205_1920x1080.jpg)
+![wallpapers/20210502/GannetsSaltee_EN-US1285648780_1920x1080.jpg](wallpapers/20210502/GannetsSaltee_EN-US1285648780_1920x1080.jpg)
 
-### wallpapers/20210322/LyonAstronomical_EN-US8367377789_1920x1080.jpg
+### wallpapers/20210502/KusamaPumpkin_EN-US1211132220_1920x1080.jpg
 
-![wallpapers/20210322/LyonAstronomical_EN-US8367377789_1920x1080.jpg](wallpapers/20210322/LyonAstronomical_EN-US8367377789_1920x1080.jpg)
+![wallpapers/20210502/KusamaPumpkin_EN-US1211132220_1920x1080.jpg](wallpapers/20210502/KusamaPumpkin_EN-US1211132220_1920x1080.jpg)
 
-### wallpapers/20210322/MagneticIsland_EN-US9412695841_1920x1080.jpg
+### wallpapers/20210502/LaughingZebras_EN-US1800178960_1920x1080.jpg
 
-![wallpapers/20210322/MagneticIsland_EN-US9412695841_1920x1080.jpg](wallpapers/20210322/MagneticIsland_EN-US9412695841_1920x1080.jpg)
+![wallpapers/20210502/LaughingZebras_EN-US1800178960_1920x1080.jpg](wallpapers/20210502/LaughingZebras_EN-US1800178960_1920x1080.jpg)
 
-### wallpapers/20210322/MassapequaOwl_EN-US8469635086_1920x1080.jpg
+### wallpapers/20210502/Mockhorn_EN-US1360987065_1920x1080.jpg
 
-![wallpapers/20210322/MassapequaOwl_EN-US8469635086_1920x1080.jpg](wallpapers/20210322/MassapequaOwl_EN-US8469635086_1920x1080.jpg)
+![wallpapers/20210502/Mockhorn_EN-US1360987065_1920x1080.jpg](wallpapers/20210502/Mockhorn_EN-US1360987065_1920x1080.jpg)
 
-### wallpapers/20210322/MtEtna_EN-US8761813954_1920x1080.jpg
+### wallpapers/20210502/SpiritHarlem_EN-US1474494856_1920x1080.jpg
 
-![wallpapers/20210322/MtEtna_EN-US8761813954_1920x1080.jpg](wallpapers/20210322/MtEtna_EN-US8761813954_1920x1080.jpg)
+![wallpapers/20210502/SpiritHarlem_EN-US1474494856_1920x1080.jpg](wallpapers/20210502/SpiritHarlem_EN-US1474494856_1920x1080.jpg)
 
-### wallpapers/20210322/ParnidisSundial_EN-US9491593439_1920x1080.jpg
+### wallpapers/20210502/Wensleydale_EN-US0930314934_1920x1080.jpg
 
-![wallpapers/20210322/ParnidisSundial_EN-US9491593439_1920x1080.jpg](wallpapers/20210322/ParnidisSundial_EN-US9491593439_1920x1080.jpg)
+![wallpapers/20210502/Wensleydale_EN-US0930314934_1920x1080.jpg](wallpapers/20210502/Wensleydale_EN-US0930314934_1920x1080.jpg)
 

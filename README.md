@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20210504/GGTeaGarden_EN-US1647173456_1920x1080.jpg
+### wallpapers/20210505/GGTeaGarden_EN-US1647173456_1920x1080.jpg
 
-![wallpapers/20210504/GGTeaGarden_EN-US1647173456_1920x1080.jpg](wallpapers/20210504/GGTeaGarden_EN-US1647173456_1920x1080.jpg)
+![wallpapers/20210505/GGTeaGarden_EN-US1647173456_1920x1080.jpg](wallpapers/20210505/GGTeaGarden_EN-US1647173456_1920x1080.jpg)
 
-### wallpapers/20210504/GannetsSaltee_EN-US1285648780_1920x1080.jpg
+### wallpapers/20210505/GannetsSaltee_EN-US1285648780_1920x1080.jpg
 
-![wallpapers/20210504/GannetsSaltee_EN-US1285648780_1920x1080.jpg](wallpapers/20210504/GannetsSaltee_EN-US1285648780_1920x1080.jpg)
+![wallpapers/20210505/GannetsSaltee_EN-US1285648780_1920x1080.jpg](wallpapers/20210505/GannetsSaltee_EN-US1285648780_1920x1080.jpg)
 
-### wallpapers/20210504/KusamaPumpkin_EN-US1211132220_1920x1080.jpg
+### wallpapers/20210505/KusamaPumpkin_EN-US1211132220_1920x1080.jpg
 
-![wallpapers/20210504/KusamaPumpkin_EN-US1211132220_1920x1080.jpg](wallpapers/20210504/KusamaPumpkin_EN-US1211132220_1920x1080.jpg)
+![wallpapers/20210505/KusamaPumpkin_EN-US1211132220_1920x1080.jpg](wallpapers/20210505/KusamaPumpkin_EN-US1211132220_1920x1080.jpg)
 
-### wallpapers/20210504/LaughingZebras_EN-US1800178960_1920x1080.jpg
+### wallpapers/20210505/LaughingZebras_EN-US1800178960_1920x1080.jpg
 
-![wallpapers/20210504/LaughingZebras_EN-US1800178960_1920x1080.jpg](wallpapers/20210504/LaughingZebras_EN-US1800178960_1920x1080.jpg)
+![wallpapers/20210505/LaughingZebras_EN-US1800178960_1920x1080.jpg](wallpapers/20210505/LaughingZebras_EN-US1800178960_1920x1080.jpg)
 
-### wallpapers/20210504/Mockhorn_EN-US1360987065_1920x1080.jpg
+### wallpapers/20210505/Mockhorn_EN-US1360987065_1920x1080.jpg
 
-![wallpapers/20210504/Mockhorn_EN-US1360987065_1920x1080.jpg](wallpapers/20210504/Mockhorn_EN-US1360987065_1920x1080.jpg)
+![wallpapers/20210505/Mockhorn_EN-US1360987065_1920x1080.jpg](wallpapers/20210505/Mockhorn_EN-US1360987065_1920x1080.jpg)
 
-### wallpapers/20210504/SpiritHarlem_EN-US1474494856_1920x1080.jpg
+### wallpapers/20210505/SpiritHarlem_EN-US1474494856_1920x1080.jpg
 
-![wallpapers/20210504/SpiritHarlem_EN-US1474494856_1920x1080.jpg](wallpapers/20210504/SpiritHarlem_EN-US1474494856_1920x1080.jpg)
+![wallpapers/20210505/SpiritHarlem_EN-US1474494856_1920x1080.jpg](wallpapers/20210505/SpiritHarlem_EN-US1474494856_1920x1080.jpg)
 
-### wallpapers/20210504/TeacherHeart_EN-US1874465116_1920x1080.jpg
+### wallpapers/20210505/StarWarsSeal_EN-US1938844381_1920x1080.jpg
 
-![wallpapers/20210504/TeacherHeart_EN-US1874465116_1920x1080.jpg](wallpapers/20210504/TeacherHeart_EN-US1874465116_1920x1080.jpg)
+![wallpapers/20210505/StarWarsSeal_EN-US1938844381_1920x1080.jpg](wallpapers/20210505/StarWarsSeal_EN-US1938844381_1920x1080.jpg)
 
-### wallpapers/20210504/Wensleydale_EN-US0930314934_1920x1080.jpg
+### wallpapers/20210505/TeacherHeart_EN-US1874465116_1920x1080.jpg
 
-![wallpapers/20210504/Wensleydale_EN-US0930314934_1920x1080.jpg](wallpapers/20210504/Wensleydale_EN-US0930314934_1920x1080.jpg)
+![wallpapers/20210505/TeacherHeart_EN-US1874465116_1920x1080.jpg](wallpapers/20210505/TeacherHeart_EN-US1874465116_1920x1080.jpg)
 

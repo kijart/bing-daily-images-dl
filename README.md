@@ -8,35 +8,35 @@ This repository downloads [bing.com](https://www.bing.com) wallpapers daily and 
 
 <!-- Wallpapers -->
 
-### wallpapers/20210611/AnnularEclipse_EN-US8858263866_1920x1080.jpg
+### wallpapers/20210612/AnnularEclipse_EN-US8858263866_1920x1080.jpg
 
-![wallpapers/20210611/AnnularEclipse_EN-US8858263866_1920x1080.jpg](wallpapers/20210611/AnnularEclipse_EN-US8858263866_1920x1080.jpg)
+![wallpapers/20210612/AnnularEclipse_EN-US8858263866_1920x1080.jpg](wallpapers/20210612/AnnularEclipse_EN-US8858263866_1920x1080.jpg)
 
-### wallpapers/20210611/ArromanchesLesBains_EN-US8268306845_1920x1080.jpg
+### wallpapers/20210612/ArromanchesLesBains_EN-US8268306845_1920x1080.jpg
 
-![wallpapers/20210611/ArromanchesLesBains_EN-US8268306845_1920x1080.jpg](wallpapers/20210611/ArromanchesLesBains_EN-US8268306845_1920x1080.jpg)
+![wallpapers/20210612/ArromanchesLesBains_EN-US8268306845_1920x1080.jpg](wallpapers/20210612/ArromanchesLesBains_EN-US8268306845_1920x1080.jpg)
 
-### wallpapers/20210611/BuntingBird_EN-US8373607335_1920x1080.jpg
+### wallpapers/20210612/BuntingBird_EN-US8373607335_1920x1080.jpg
 
-![wallpapers/20210611/BuntingBird_EN-US8373607335_1920x1080.jpg](wallpapers/20210611/BuntingBird_EN-US8373607335_1920x1080.jpg)
+![wallpapers/20210612/BuntingBird_EN-US8373607335_1920x1080.jpg](wallpapers/20210612/BuntingBird_EN-US8373607335_1920x1080.jpg)
 
-### wallpapers/20210611/CortezJacks_EN-US4025428525_1920x1080.jpg
+### wallpapers/20210612/CortezJacks_EN-US4025428525_1920x1080.jpg
 
-![wallpapers/20210611/CortezJacks_EN-US4025428525_1920x1080.jpg](wallpapers/20210611/CortezJacks_EN-US4025428525_1920x1080.jpg)
+![wallpapers/20210612/CortezJacks_EN-US4025428525_1920x1080.jpg](wallpapers/20210612/CortezJacks_EN-US4025428525_1920x1080.jpg)
 
-### wallpapers/20210611/EasternIsland_EN-US7992088058_1920x1080.jpg
+### wallpapers/20210612/EasternIsland_EN-US7992088058_1920x1080.jpg
 
-![wallpapers/20210611/EasternIsland_EN-US7992088058_1920x1080.jpg](wallpapers/20210611/EasternIsland_EN-US7992088058_1920x1080.jpg)
+![wallpapers/20210612/EasternIsland_EN-US7992088058_1920x1080.jpg](wallpapers/20210612/EasternIsland_EN-US7992088058_1920x1080.jpg)
 
-### wallpapers/20210611/ForteNossa_EN-US8946379841_1920x1080.jpg
+### wallpapers/20210612/ForteNossa_EN-US8946379841_1920x1080.jpg
 
-![wallpapers/20210611/ForteNossa_EN-US8946379841_1920x1080.jpg](wallpapers/20210611/ForteNossa_EN-US8946379841_1920x1080.jpg)
+![wallpapers/20210612/ForteNossa_EN-US8946379841_1920x1080.jpg](wallpapers/20210612/ForteNossa_EN-US8946379841_1920x1080.jpg)
 
-### wallpapers/20210611/SocaCycles_EN-US8987262585_1920x1080.jpg
+### wallpapers/20210612/GlenEtive_EN-US8902001915_1920x1080.jpg
 
-![wallpapers/20210611/SocaCycles_EN-US8987262585_1920x1080.jpg](wallpapers/20210611/SocaCycles_EN-US8987262585_1920x1080.jpg)
+![wallpapers/20210612/GlenEtive_EN-US8902001915_1920x1080.jpg](wallpapers/20210612/GlenEtive_EN-US8902001915_1920x1080.jpg)
 
-### wallpapers/20210611/ToucanRainforest_EN-US8174584515_1920x1080.jpg
+### wallpapers/20210612/ToucanRainforest_EN-US8174584515_1920x1080.jpg
 
-![wallpapers/20210611/ToucanRainforest_EN-US8174584515_1920x1080.jpg](wallpapers/20210611/ToucanRainforest_EN-US8174584515_1920x1080.jpg)
+![wallpapers/20210612/ToucanRainforest_EN-US8174584515_1920x1080.jpg](wallpapers/20210612/ToucanRainforest_EN-US8174584515_1920x1080.jpg)
 
